@@ -1,0 +1,15 @@
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\bin\Debug\net7.0\CalculatingDamageInGame.exe
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\bin\Debug\net7.0\CalculatingDamageInGame.deps.json
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\bin\Debug\net7.0\CalculatingDamageInGame.runtimeconfig.json
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\bin\Debug\net7.0\CalculatingDamageInGame.dll
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\bin\Debug\net7.0\CalculatingDamageInGame.pdb
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.csproj.AssemblyReference.cache
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.AssemblyInfoInputs.cache
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.AssemblyInfo.cs
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.csproj.CoreCompileInputs.cache
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.dll
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\refint\CalculatingDamageInGame.dll
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.pdb
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\CalculatingDamageInGame.genruntimeconfig.cache
+C:\dotnet\C#\HeadFirst\CalculatingDamageInGame\obj\Debug\net7.0\ref\CalculatingDamageInGame.dll
